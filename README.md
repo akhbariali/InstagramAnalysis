@@ -1,5 +1,3 @@
-# InstagramAnalysis
-
 # Social Media Emotion Analysis Platform
 
 A research-oriented platform for collecting, processing, and analyzing social media text data using Natural Language Processing (NLP), Machine Learning, and Deep Learning techniques.
